@@ -1,0 +1,162 @@
+.logo{
+    height: 44px;
+    width: 152px;
+    margin-left: 50px;
+}
+.btn{
+    border: none;
+    background-color: aliceblue;
+    color: black;
+    font-weight:500;
+    font-size: 12px;
+    word-spacing: 20px;
+    margin-left: 10px;
+
+}
+.dropdown0{
+    margin-left: 306px;
+}
+.nav-link.active{
+    font-size: 30px;
+    margin-top: 1px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.logo2{
+    height: 18px;
+    width: 16px;
+}
+.l1{
+    margin-left: 411px;
+}
+.user{
+    height: 11px;
+    width: 12px;
+}
+.nav-item{
+    font-weight: 500;
+    font-size: 13px;
+}
+.h0{
+    margin-top: 30px;
+    margin-left: 516px;
+    font-weight: 300;
+    font-size: 48px;
+}
+.h2{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 550px;
+    font-weight: 200;
+}
+.h3{
+    font-size: 25px;
+    margin-top: 12px;
+    margin-left: 775px;
+    font-weight: 200;
+}
+.ig{
+    height: 400px;
+    width: 473px;
+}
+.dis{
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 906px;
+
+}
+
+.o1{
+    color: aliceblue;
+    background-color: rgb(60, 90, 80);
+}
+.pro1{
+    width: 1920px;
+}
+.r1{
+    height: 900px;
+    width: 1920px;
+}
+.header{
+    margin-left:400px;
+    margin-top: 50px;
+    font-weight: 800;
+    font-style: italic;
+}
+.field{
+    height: 40px;
+    width:400px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.field0{
+    height: 40px;
+    width:400px;
+    
+    margin-left: 100px;
+}
+.field1{
+    height: 40px;
+    width:400px;
+    border-radius: 20px;
+    margin-left: 120px;
+}
+.field2{
+    height: 40px;
+    width:400px;
+    border-radius: 20px;
+    margin-left: 116px;
+}
+.label1{
+    margin-top: 80px;
+    margin-left: 700px;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: cursive;
+}
+.label2{
+    margin-top: 50px;
+    margin-left: 700px;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: cursive;
+}
+.label3{
+    margin-top: 50px;
+    margin-left: 700px;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: cursive;
+}
+.label4{
+    margin-top: 50px;
+    margin-left: 700px;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: cursive;
+}
+.addb{
+    height: 40px;
+    width: 100px;
+    margin-left: 882px;
+    border-radius: 20px;
+    margin-top: 50px;
+    font-weight: 500;
+    background-color: grey;
+}
+.c1{
+    height: 250px;
+}
+.t1{
+    margin-left: 230px;
+    margin-top: 40px;
+    font-size: 15px;
+}
+.y1{
+    margin-left: 200px;
+}
+.u1{
+    margin-left: 200px;
+    font-size: 15px;
+}
